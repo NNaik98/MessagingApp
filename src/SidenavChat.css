@@ -1,0 +1,16 @@
+.sidenavchat{
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #f6f6f6;
+}
+.sidenavchat:hover{
+ background-color: #ebebeb;
+}
+.sidenavchatinfo > h2{
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+.sidenavchatinfo{
+    margin-left: 15px;
+}
